@@ -1,0 +1,12 @@
+# lst = []
+# n = int(input("num:"))
+# for i in range(n):
+#     lst.append(int(input()))
+# print(lst)
+# list = []
+# dict = {}
+# set = {}
+# comp= input("type of comprehension:")
+import os
+print(os.getcwd())
+print(os.chdir("C:/Users/user/PycharmProjects"))

@@ -1,0 +1,10 @@
+n = int(input("enter the no of sequence:\n")
+n1, b = 0, 1
+sum = 0
+count = 1
+while(n>=count):
+    print(sum, end=" ")
+    count = count +1
+    n1=b
+    b=sum
+    sum=a+b
